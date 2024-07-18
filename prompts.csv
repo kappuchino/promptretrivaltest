@@ -1,0 +1,4 @@
+Titel,Prompt,Temp,TopP,Modell
+"Das ist nur ein Test","Die bist ein hilfreicher Assistent",1,0.7,"Opus3"
+"Eine zweite Zeile ist nie verkehrt","Die bist eine noch hilfereichere Assistentin",0.5,0.7,"Sonnet3.5"
+"Aller guten Dinge sind ...","Du bist ein Manager von Evil-Corp",0.7,0.8,"Haiku3"
